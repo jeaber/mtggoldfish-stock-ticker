@@ -6,6 +6,6 @@
 
 3. Click Stylish button next to bookmarks icon.
 4. Click the 3 dots drop down top right, 'Create new style'
-5. Click on 'styles.css' in this repo then Select and Copy all the lines in the stylesheet
-6. Paste this into the Stylish text box and hit Ctrl-S to save.
+5. Select all and copy everything from https://raw.githubusercontent.com/jeaber/mtggoldfish-stock-ticker/master/style.css
+6. Paste into the Stylish text box and hit Ctrl-S to save.
 
